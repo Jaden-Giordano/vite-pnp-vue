@@ -1,0 +1,54 @@
+[21:29:33.981] Global cache location '/home/grey/.cache/typescript/4.3', safe file path '/home/grey/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/grey/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typesMap.json
+[21:29:33.981] Processing cache location '/home/grey/.cache/typescript/4.3'
+[21:29:33.981] Trying to find '/home/grey/.cache/typescript/4.3/package.json'...
+[21:29:33.982] Loaded content of '/home/grey/.cache/typescript/4.3/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.558"},"devDependencies":{"@types/asap":"^2.0.0","@types/big.js":"^6.1.1","@types/bluebird":"^3.5.36","@types/call-bind":"^1.0.0","@types/consolidate":"^0.14.1","@types/cssesc":"^3.0.0","@types/function-bind":"^1.1.6","@types/get-intrinsic":"^1.0.0","@types/has":"^1.0.0","@types/has-symbols":"^1.0.0","@types/hash-sum":"^1.0.0","@types/icss-utils":"^4.1.0","@types/is-core-module":"^2.2.0","@types/is-regex":"^1.0.0","@types/loader-utils":"^2.0.3","@types/lodash.camelcase":"^4.3.6","@types/lru-cache":"^5.1.1","@types/minimist":"^1.2.2","@types/object-assign":"^4.0.30","@types/path-parse":"^1.0.19","@types/pnpapi":"^0.0.2","@types/postcss-modules-extract-imports":"^3.0.2","@types/postcss-modules-local-by-default":"^1.2.2","@types/postcss-modules-scope":"^1.1.2","@types/postcss-modules-values":"^3.0.0","@types/prettier":"^2.3.2","@types/pug":"^2.0.5","@types/resolve":"^1.20.1","@types/string-hash":"^1.1.1","@types/util-deprecate":"^1.0.0","@types/void-elements":"^3.1.0","@types/yallist":"^4.0.1"}}
+[21:29:33.982] Loaded content of '/home/grey/.cache/typescript/4.3/package-lock.json'
+[21:29:33.986] Adding entry into typings cache: 'asap' => '/home/grey/.cache/typescript/4.3/node_modules/@types/asap/index.d.ts'
+[21:29:33.988] Adding entry into typings cache: 'big.js' => '/home/grey/.cache/typescript/4.3/node_modules/@types/big.js/index.d.ts'
+[21:29:33.989] Adding entry into typings cache: 'bluebird' => '/home/grey/.cache/typescript/4.3/node_modules/@types/bluebird/index.d.ts'
+[21:29:33.990] Adding entry into typings cache: 'call-bind' => '/home/grey/.cache/typescript/4.3/node_modules/@types/call-bind/index.d.ts'
+[21:29:33.990] Adding entry into typings cache: 'consolidate' => '/home/grey/.cache/typescript/4.3/node_modules/@types/consolidate/index.d.ts'
+[21:29:33.991] Adding entry into typings cache: 'cssesc' => '/home/grey/.cache/typescript/4.3/node_modules/@types/cssesc/index.d.ts'
+[21:29:33.992] Adding entry into typings cache: 'function-bind' => '/home/grey/.cache/typescript/4.3/node_modules/@types/function-bind/index.d.ts'
+[21:29:33.993] Adding entry into typings cache: 'get-intrinsic' => '/home/grey/.cache/typescript/4.3/node_modules/@types/get-intrinsic/index.d.ts'
+[21:29:33.993] Adding entry into typings cache: 'has' => '/home/grey/.cache/typescript/4.3/node_modules/@types/has/index.d.ts'
+[21:29:33.994] Adding entry into typings cache: 'has-symbols' => '/home/grey/.cache/typescript/4.3/node_modules/@types/has-symbols/index.d.ts'
+[21:29:33.995] Adding entry into typings cache: 'hash-sum' => '/home/grey/.cache/typescript/4.3/node_modules/@types/hash-sum/index.d.ts'
+[21:29:33.995] Adding entry into typings cache: 'icss-utils' => '/home/grey/.cache/typescript/4.3/node_modules/@types/icss-utils/index.d.ts'
+[21:29:33.996] Adding entry into typings cache: 'is-core-module' => '/home/grey/.cache/typescript/4.3/node_modules/@types/is-core-module/index.d.ts'
+[21:29:33.997] Adding entry into typings cache: 'is-regex' => '/home/grey/.cache/typescript/4.3/node_modules/@types/is-regex/index.d.ts'
+[21:29:33.998] Adding entry into typings cache: 'loader-utils' => '/home/grey/.cache/typescript/4.3/node_modules/@types/loader-utils/index.d.ts'
+[21:29:33.998] Adding entry into typings cache: 'lodash.camelcase' => '/home/grey/.cache/typescript/4.3/node_modules/@types/lodash.camelcase/index.d.ts'
+[21:29:34.000] Adding entry into typings cache: 'lru-cache' => '/home/grey/.cache/typescript/4.3/node_modules/@types/lru-cache/index.d.ts'
+[21:29:34.000] Adding entry into typings cache: 'minimist' => '/home/grey/.cache/typescript/4.3/node_modules/@types/minimist/index.d.ts'
+[21:29:34.001] Adding entry into typings cache: 'object-assign' => '/home/grey/.cache/typescript/4.3/node_modules/@types/object-assign/index.d.ts'
+[21:29:34.002] Adding entry into typings cache: 'path-parse' => '/home/grey/.cache/typescript/4.3/node_modules/@types/path-parse/index.d.ts'
+[21:29:34.002] Adding entry into typings cache: 'pnpapi' => '/home/grey/.cache/typescript/4.3/node_modules/@types/pnpapi/index.d.ts'
+[21:29:34.003] Adding entry into typings cache: 'postcss-modules-extract-imports' => '/home/grey/.cache/typescript/4.3/node_modules/@types/postcss-modules-extract-imports/index.d.ts'
+[21:29:34.003] Adding entry into typings cache: 'postcss-modules-local-by-default' => '/home/grey/.cache/typescript/4.3/node_modules/@types/postcss-modules-local-by-default/index.d.ts'
+[21:29:34.004] Adding entry into typings cache: 'postcss-modules-scope' => '/home/grey/.cache/typescript/4.3/node_modules/@types/postcss-modules-scope/index.d.ts'
+[21:29:34.004] Adding entry into typings cache: 'postcss-modules-values' => '/home/grey/.cache/typescript/4.3/node_modules/@types/postcss-modules-values/index.d.ts'
+[21:29:34.005] Adding entry into typings cache: 'prettier' => '/home/grey/.cache/typescript/4.3/node_modules/@types/prettier/index.d.ts'
+[21:29:34.006] Adding entry into typings cache: 'pug' => '/home/grey/.cache/typescript/4.3/node_modules/@types/pug/index.d.ts'
+[21:29:34.006] Adding entry into typings cache: 'resolve' => '/home/grey/.cache/typescript/4.3/node_modules/@types/resolve/index.d.ts'
+[21:29:34.007] Adding entry into typings cache: 'string-hash' => '/home/grey/.cache/typescript/4.3/node_modules/@types/string-hash/index.d.ts'
+[21:29:34.007] Adding entry into typings cache: 'util-deprecate' => '/home/grey/.cache/typescript/4.3/node_modules/@types/util-deprecate/index.d.ts'
+[21:29:34.008] Adding entry into typings cache: 'void-elements' => '/home/grey/.cache/typescript/4.3/node_modules/@types/void-elements/index.d.ts'
+[21:29:34.008] Adding entry into typings cache: 'yallist' => '/home/grey/.cache/typescript/4.3/node_modules/@types/yallist/index.d.ts'
+[21:29:34.008] Finished processing cache location '/home/grey/.cache/typescript/4.3'
+[21:29:34.008] Process id: 653526
+[21:29:34.008] NPM location: /nix/store/p6h1iz5lcvfz1hg1z497ypa22rv52xxx-nodejs-16.8.0/bin/npm (explicit '--npmLocation' not  provided)
+[21:29:34.008] validateDefaultNpmLocation: false
+[21:29:34.008] Npm config file: /home/grey/.cache/typescript/4.3/package.json
+[21:29:34.008] Updating types-registry npm package...
+[21:29:34.009] Exec: /nix/store/p6h1iz5lcvfz1hg1z497ypa22rv52xxx-nodejs-16.8.0/bin/npm install --ignore-scripts types-registry@latest
+[21:29:34.414]     Succeeded. stdout:
+    
+    up to date, audited 59 packages in 334ms
+
+3 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+[21:29:34.414] Updated types-registry npm package
